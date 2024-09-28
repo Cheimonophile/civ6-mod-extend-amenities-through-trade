@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="368517E4-2B48-4C12-A029-E3A287C4937E" version="1">
   <Properties>
-    <Name>BRMV's Stack Amenities</Name>
+    <Name>BRMV's Extend Amenities Through Trade</Name>
     <Description>
-      Allows amenities from Luxury Resources and Amenity Buildings to stack.
+      Constructing a building that provides a trade route slot increases the number of cities that a luxury resource can provide amenities to by 2.
     </Description>
     <Created>1727547019</Created>
-    <Teaser>Stack Luxuries</Teaser>
+    <Teaser>Extend Amenities Through Trade</Teaser>
     <Authors>Ben</Authors>
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
   </Properties>
